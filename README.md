@@ -1,4 +1,4 @@
-# AI-3d-PrintedShirt
+# Design AI
 
 ### [Live Site](https://aishirtprint.netlify.app/)
 
@@ -31,7 +31,7 @@ Unleash your imagination and define your own style.
 - Fork the repository, create a clone and make sure that you are not working on the `MAIN BRANCH' repository!
 
 ```bash
-git clone https://github.com/{your-github-username-here}/AI-3d-PrintedShirt.git
+git clone https://github.com/{your-github-username-here}/Design-AI.git
 ```
 
 ```bash
@@ -47,7 +47,7 @@ git checkout -b {name-of-the-branch-here}
 - Add a stream so you can sync your clone with the original repository (get the latest updates)
 
 ```bash
-git remote add upstream https://github.com/anayatkhan1/AI-3d-PrintedShirt.git
+git remote add upstream https://github.com/anayatkhan1/Design-AI.git
 ```
 
 - Use this command to stay up to date with the original repository (not the fork that you made)
